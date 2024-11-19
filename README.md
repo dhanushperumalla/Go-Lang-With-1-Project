@@ -7,3 +7,7 @@
 -> User Inputs<br>
 -> Functions and Return Values<br>
 -> Loops and Coditions<br>
+-> Map Stmts<br>
+-> Random Number Genration<br>
+-> Packages<br>
+-> go mod init casino<br>
